@@ -1,0 +1,54 @@
+html, body, .container {
+    background-color:   #7B72D8;
+    min-height:100%;
+    
+   
+    background-size:cover;
+}
+.col-12,.container-fluid {
+    background-color: #2618B1  !important;
+    font-weight: 700;
+
+}
+.me-2{
+    border-color: black;
+}
+.btn{
+    color:black;
+    border-color: black;
+}
+
+
+    
+
+
+.size {
+    border:1px solid black;
+    border-top:none;
+}
+
+.round{
+    border-radius: 15%; 
+    box-shadow: 0 0 0 1px black, 0 0 8px #333;
+
+}
+.me{
+    display: block;
+    border-radius: 15%;
+    border: 2px solid #2618B1;
+    box-shadow: 0 0 5px #333;
+    margin: 10px auto;
+}
+.txt{
+    color:white;
+    margin-top: 40px;
+    margin-left: 60px;
+    
+}
+.size-2 {
+    border:none;  
+
+}
+.row-1{
+    box-shadow: 0 0 30px #333;
+}
